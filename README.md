@@ -12,6 +12,8 @@ This repository contains a curated collection of deep learning projects implemen
 6. **GAN MNIST Digit Generation** - Generative Adversarial Network trained on the MNIST dataset.
 7. **CNN for Digit Classification & Recognition** - CNN-based digit classification from handwritten digits.
 8. **FastRCNN Object Detection** - Object detection using Fast R-CNN architecture.
+9. **YOLO Object Detection (YOLOv5)** - Real-time object detection using the YOLOv5 architecture.
+10. **YOLOv8 - Multitask Vision Model** - A complete pipeline using YOLOv8 for object detection, segmentation, classification, pose estimation, and tracking. Implemented via `use_yolo_v8.ipynb`.
 
 ## 🛠️ Tech Stack
 - Python
